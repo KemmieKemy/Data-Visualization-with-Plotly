@@ -1,13 +1,10 @@
 You want to contribute to this repository?<br>
 Well, here's how you can do so;
 1. **Fork** [this](https://github.com/KemmieKemy/Data-Visualization-with-Plotly) repository  
+2. **Clone** your fork using following simple terminal command  
+``` git clone https://github.com/<your-github-username>/Data-Visualization-with-Plotly.git ```
 
 <!--
-2. **Clone** your fork using following simple terminal command  
-```
-git clone https://github.com/<your-github-username>/IPL-Analysis.git
-```
-
 3. Open the cloned repository in any of the **text editor**  
 
 4. Before you begin with editing, create a new branch and checkout into it  
