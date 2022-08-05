@@ -1,8 +1,11 @@
 You want to contribute to this repository?<br>
 Well, here's how you can do so;
 1. **Fork** [this](https://github.com/KemmieKemy/Data-Visualization-with-Plotly) repository  
-2. **Clone** your fork using following simple terminal command  
+2. **Clone** your fork using following simple terminal command  <br>
 ``` git clone https://github.com/<your-github-username>/Data-Visualization-with-Plotly.git ```
+3. Add **upstream** to the list of remotes by using the command: <br>
+``` git remote add upstream https://github.com/KemmieKemy/Data-Visualization-with-Plotly.git``` <br>
+*This is to enable you track changes in the original repository*
 
 <!--
 3. Open the cloned repository in any of the **text editor**  
