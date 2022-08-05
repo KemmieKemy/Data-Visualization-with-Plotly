@@ -6,7 +6,11 @@ Well, here's how you can do so;
 3. Add **upstream** to the list of remotes by using the command: <br>
 ``` git remote add upstream https://github.com/KemmieKemy/Data-Visualization-with-Plotly.git``` <br>
 *This is to enable you track changes in the original repository*
-
+4. Create a new **branch** and checkout into it  
+```
+git branch my-branch
+git checkout my-branch
+```
 <!--
 3. Open the cloned repository in any of the **text editor**  
 
