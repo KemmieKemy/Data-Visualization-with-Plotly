@@ -11,14 +11,10 @@ Well, here's how you can do so;
 git branch my-branch
 git checkout my-branch
 ```
-<!--
-3. Open the cloned repository in any of the **text editor**  
+5. This is the kind of the contribution that is expected:
+> * **Add Datasets:** Include a new dataset of your own or by getting from a legit source.  
 
-4. Before you begin with editing, create a new branch and checkout into it  
-```
-git branch my-branch
-git checkout my-branch
-```
+<!--
 
 5. Here we mention few of the frequent kind of the contribution we expact from you...  
 > * **Add Datasets:** Introduce a new dataset of your own or by collecting from some valid source in [our branch dedicated for the data storage](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination).  
