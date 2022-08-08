@@ -12,7 +12,8 @@ git branch my-branch
 git checkout my-branch
 ```
 5. This is the kind of the contribution that is expected:
-> * **Add Datasets:** Include a new dataset of your own or by getting from a legit source.  
+* **Add Datasets:** Include a new dataset of your own or by getting from a legit source.  
+* **Add Visualizations:** Generate and add visualizations by analyzing the available datasets in Charts.  
 
 <!--
 
