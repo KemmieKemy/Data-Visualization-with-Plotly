@@ -12,8 +12,8 @@ git branch my-branch
 git checkout my-branch
 ```
 5. This is the kind of the contribution that is expected:
-* **Add Datasets:** Include a new dataset of your own or by getting from a legit source.  
-* **Add Visualizations:** Generate and add visualizations by analyzing the available datasets in Charts.  
+* **Add Datasets:** Include a new dataset of your own or from a legit source into the [Datasets](https://github.com/KemmieKemy/Data-Visualization-with-Plotly/tree/main/Datasets) folder.  
+* **Add Visualizations:** Generate and add visualizations by analyzing the available datasets in [Charts](https://github.com/KemmieKemy/Data-Visualization-with-Plotly/tree/main/Charts).  
 
 <!--
 
