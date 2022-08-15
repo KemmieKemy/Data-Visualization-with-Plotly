@@ -15,6 +15,12 @@ git checkout my-branch
 * **Add Datasets:** Include a new dataset of your own or from a legit source into the [Datasets](https://github.com/KemmieKemy/Data-Visualization-with-Plotly/tree/main/Datasets) folder.  
 * **Add Visualizations:** Generate and add visualizations by analyzing the available datasets in [Charts](https://github.com/KemmieKemy/Data-Visualization-with-Plotly/tree/main/Charts).  
 6. **Push your contribution** to your cloned repository.
+```git push origin <add-your-branch-name>```  
+
+7. **Pull Request:** Open your Pull Request
+* Go to your repository on GitHub, and click on the Compare & pull request button.
+* Add a title and comment to your pull request. You can mention the issue that you are addressing here.
+* Then click *"Create pull request"* to submit your PR to the owner or project maintainer.
 <!--
 
 5. Here we mention few of the frequent kind of the contribution we expact from you...  
@@ -25,9 +31,9 @@ git checkout my-branch
 > * **Add Hot Facts:** As mentioned, we are _ready to grab_ the latest updates in [```Stats2020.md```](./Stats2020.md)  
 
 6. **Push your contribution** to your cloned repository  
-```
-git push origin my-branch
-```  
+```git push origin <add-your-branch-name>```  
 
-7. **Pull Request:** Finally make a pull request mentioning the issue (if any).  
+7. **Pull Request:** Open your Pull Request
+ Go to your repository on GitHub, and click on the Compare & pull request button.
+mentioning the issue (if any).  
 -->
