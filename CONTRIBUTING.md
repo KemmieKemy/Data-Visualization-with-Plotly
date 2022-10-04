@@ -20,20 +20,6 @@ git checkout my-branch
 7. **Pull Request:** Open your Pull Request
 * Go to your repository on GitHub, and click on the Compare & pull request button.
 * Add a title and comment to your pull request. You can mention the issue that you are addressing here.
-* Then click *"Create pull request"* to submit your PR to the owner or project maintainer.
-<!--
+* Then click *"Create pull request"* to submit your PR to the owner or maintainer.
 
-5. Here we mention few of the frequent kind of the contribution we expact from you...  
-> * **Add Datasets:** Introduce a new dataset of your own or by collecting from some valid source in [our branch dedicated for the data storage](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination).  
-> * **Add Code:** Share your code after performing some data-analysis, model in the [code section](https://github.com/Team-thedatatribune/IPL-Analysis/tree/master/Codes).  
-> * **Add Visualizations:** Generate and add some awesome visualizations by analyzing the available datasets in [visualizations](https://github.com/Team-thedatatribune/IPL-Analysis/tree/master/Visualizations).  
-> * **Add Descriptions:** Help us improve the documentations at different aspects viz [defining datasets](https://github.com/Team-thedatatribune/IPL-Analysis/tree/dataset-defination/Details), defining significance of available [codes](https://github.com/Team-thedatatribune/IPL-Analysis/blob/master/Codes.md) and [visualizations](https://github.com/Team-thedatatribune/IPL-Analysis/blob/master/Visualizations.md) etc..  
-> * **Add Hot Facts:** As mentioned, we are _ready to grab_ the latest updates in [```Stats2020.md```](./Stats2020.md)  
-
-6. **Push your contribution** to your cloned repository  
-```git push origin <add-your-branch-name>```  
-
-7. **Pull Request:** Open your Pull Request
- Go to your repository on GitHub, and click on the Compare & pull request button.
-mentioning the issue (if any).  
--->
+Your PR will be merged after review.
