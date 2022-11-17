@@ -5,3 +5,4 @@ If you're new to python, [here's](https://medium.datadriveninvestor.com/data-vis
 ## Links:
 Datasets are stored here - [Datasets](https://github.com/KemmieKemy/Data-Visualization-with-Plotly/tree/main/Datasets)<br>
 Charts can be Found here - [Charts](https://github.com/KemmieKemy/Data-Visualization-with-Plotly/tree/main/Charts)
+<p> You can add more plotly visuals by following the steps outlined in the Contribution Guidelines. </p>
